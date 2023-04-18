@@ -1,4 +1,4 @@
-# Krutik
+# Hina Jadav
 
 # 💫 About Me:
 I'm currently learning Web-devlopment<br>
